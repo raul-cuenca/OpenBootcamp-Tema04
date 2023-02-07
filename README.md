@@ -8,9 +8,9 @@ En este ejercicio practicarás las estructuras de control, para ello deberás cr
 
 - 2. Crea un bucle While, este bucle tendrá que tener como condición que la variable numeroWhile sea inferior a 3, el bloque de código que tendrá el bucle deberá:
 
---- 2.1 Incrementar el valor de la variable en uno cada vez que se ejecute.
+- 2.1 Incrementar el valor de la variable en uno cada vez que se ejecute.
 
---- 2.2 Mostrarlo por pantalla cada vez que se ejecute.
+- 2.2 Mostrarlo por pantalla cada vez que se ejecute.
 
 - 3. Para el bucle Do While, deberás crear la misma estructura que en el While, pero solo se debe ejecutar una vez.
 
